@@ -1,13 +1,13 @@
-\documentclass[a4paper,11pt]{article}
+    \documentclass[a4paper,11pt]{article}
 \usepackage{jheppub} % for details on the use of the package, please see the JINST-author-manual
 \usepackage{lineno}
-% \linenum bers
+% \linenumbers
 
 
 
-\arxivnumber{1234.56789} % if you have one
+\arxivnumber{I wish} % if you have one
 
-\title{\boldmath Lit review and other on M1 internship. }
+\title{\boldmath M1 Internship report and update}
 
 % Collaborations
 
@@ -39,15 +39,15 @@
 %% \affiliation[c]{Institution_3,\\Address, Country}
 
 \author{S M Masruk Uddin}
-\affiliation{Paris Observatory ,\\
-some-street, Country}
-\affiliation{Another University,\\
-different-address, Country}
+\affiliation{LUTH, L’Observatoire de Paris-PSL\\
+5 place Jules Janssen, 92195 Meudon}
+% \affiliation{Another University,\\
+% different-address, Country}
 
 % E-mail addresses: only for the corresponding author
 \emailAdd{masruk.uddin@observatoiredeparis.psl.eu}
 
-\abstract{So far this article will containg review of papers i went throgh for my m1 internship.}
+\abstract{So far the review on the article I have read .... }
 
 
 
@@ -55,41 +55,14 @@ different-address, Country}
 \maketitle
 \flushbottom
 
-\section{Some examples}
-\label{sec:intro}
-I can try citeing \cite{PhysRevLett.126.051102}
-For internal references use label-refs: see section~\ref{sec:intro}.
-Bibliographic citations can be done with "cite": refs.~\cite{a,b,c}.
-When possible, align equations on the equal sign. The package
-\texttt{amsmath} is already loaded. See \eqref{eq:x}.
-\begin{equation}
-\label{eq:x}
-\begin{aligned}
-x &= 1 \,,
-\qquad
-y = 2 \,,
-\\
-z &= 3 \,.
-\end{aligned}
-\end{equation}
-Also, watch out for the punctuation at the end of the equations.
+\section{Black hole perturbation toolkit }
+\label{BHPTK}
+In this section a summery on \cite{PhysRevD.73.024027}  has been provided. 
 
 
-If you want some equations without the tag (number), please use the available
-starred-environments. For example:
-\begin{equation*}
-x = 1
-\end{equation*}
 
-\section{Figures and tables}
-
-All figures and tables should be referenced in the text and should be
-placed on the page where they are first cited or in
-subsequent pages. Positioning them in the source file
-after the paragraph where you first reference them usually yield good
-results. See figure~\ref{fig:i} and table~\ref{tab:i} for layout examples. 
-Please note that a caption is mandatory  and it must be placed at the bottom of both figures and tables.
-
+\section{Analytic Black Hole Perturbation Approach to Gravitational Radiation}
+ This is a huge paper \cite{Sasaki2003} a review on that also might requied  some refence from here and there 
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=.4\textwidth]{example-image-a}
@@ -144,12 +117,12 @@ This is the most common positions for acknowledgments. A macro is
 available to maintain the same layout and spelling of the heading.
 
 \paragraph{Note added.} This is also a good position for notes added
-after the paper has been written.
+after the paper has been written. c
 
 
 % Bibliography
 
-% [A] Recommende/d: using JHEP.bst file
+%% [A] Recommended: using JHEP.bst file
 \bibliographystyle{JHEP}
 \bibliography{biblio.bib}
 
@@ -178,7 +151,6 @@ after the paper has been written.
 % Author,
 % \emph{Title},
 % Publisher (year).
-% \bibitem{d}
 
 % \end{thebibliography}
 \end{document}

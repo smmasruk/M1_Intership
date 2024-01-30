@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.10.19)  25 JAN 2024 12:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.30)  30 JAN 2024 12:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -394,66 +394,62 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 
-Package natbib Warning: Citation `PhysRevLett.126.051102' on page 1 undefined o
-n input line 60.
+Package natbib Warning: Citation `PhysRevD.73.024027' on page 1 undefined on in
+put line 60.
 
 
-Package natbib Warning: Citation `a' on page 1 undefined on input line 62.
+Package natbib Warning: Citation `Sasaki2003' on page 1 undefined on input line
+ 65.
 
-
-Package natbib Warning: Citation `b' on page 1 undefined on input line 62.
-
-
-Package natbib Warning: Citation `c' on page 1 undefined on input line 62.
-
-<example-image-a.pdf, id=35, 321.2pt x 240.9pt>
+<example-image-a.pdf, id=31, 321.2pt x 240.9pt>
 File: example-image-a.pdf Graphic file (type pdf)
 <use example-image-a.pdf>
-Package pdftex.def Info: example-image-a.pdf  used on input line 95.
+Package pdftex.def Info: example-image-a.pdf  used on input line 68.
 (pdftex.def)             Requested size: 172.07993pt x 129.06216pt.
-<example-image-b.pdf, id=36, 321.2pt x 240.9pt>
+<example-image-b.pdf, id=32, 321.2pt x 240.9pt>
 File: example-image-b.pdf Graphic file (type pdf)
 <use example-image-b.pdf>
-Package pdftex.def Info: example-image-b.pdf  used on input line 97.
+Package pdftex.def Info: example-image-b.pdf  used on input line 70.
 (pdftex.def)             Requested size: 172.07993pt x 129.06216pt.
 LaTeX Font Info:    Trying to load font information for OMS+cmtt on input line 
-120.
+93.
 (/usr/share/texmf/tex/latex/R/tex/latex/omscmtt.fd
 File: omscmtt.fd 
 )
 LaTeX Font Info:    Font shape `OMS/cmtt/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 120.
- [1 </usr/share/texlive/texmf-dist/tex/latex/mwe/example-image-a.pdf> </usr/sha
-re/texlive/texmf-dist/tex/latex/mwe/example-image-b.pdf>]
-Overfull \hbox (6.14049pt too wide) in paragraph at lines 124--130
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 93.
+
+Overfull \hbox (6.14049pt too wide) in paragraph at lines 97--103
 \OT1/cmr/m/n/10.95 ti-cle. Also, we strongly dis-cour-age the use of non-number
 ed sec-tions (e.g. \OMS/cmsy/m/n/10.95 n\OT1/cmtt/m/n/10.95 subsubsection*\OT1/
 cmr/m/n/10.95 ).
  []
 
 
-Overfull \hbox (5.23756pt too wide) in paragraph at lines 124--130
+Overfull \hbox (5.23756pt too wide) in paragraph at lines 97--103
 \OT1/cmr/m/n/10.95 Please also con-sider the use of ``\OMS/cmsy/m/n/10.95 n\OT1
 /cmtt/m/n/10.95 texorpdfstring\OMS/cmsy/m/n/10.95 fgfg\OT1/cmr/m/n/10.95 '' to 
 avoid warn-ings from the \OT1/cmtt/m/n/10.95 hyperref
  []
 
+[1 </usr/share/texlive/texmf-dist/tex/latex/mwe/example-image-a.pdf> </usr/shar
+e/texlive/texmf-dist/tex/latex/mwe/example-image-b.pdf>]
 No file main.bbl.
 
 Package natbib Warning: There were undefined citations.
 
 [2] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 8077A026B5EAC9ED59DC1B231DBD3FE3;347.
+(rerunfilecheck)             Checksum: 0A928FC121C019202926F33414EEF48E;716.
  ) 
 Here is how much of TeX's memory you used:
- 10229 strings out of 478287
- 156874 string characters out of 5849288
- 445471 words of memory out of 5000000
+ 10228 strings out of 478287
+ 156862 string characters out of 5849289
+ 444350 words of memory out of 5000000
  28268 multiletter control sequences out of 15000+600000
  478427 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 85i,9n,90p,244b,336s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 85i,9n,90p,443b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
@@ -464,10 +460,10 @@ onts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmtt10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb
 >
-Output written on main.pdf (3 pages, 141233 bytes).
+Output written on main.pdf (3 pages, 140171 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
- 84 compressed objects within 1 object stream
- 14 named destinations out of 1000 (max. 500000)
+ 106 PDF objects out of 1000 (max. 8388607)
+ 79 compressed objects within 1 object stream
+ 13 named destinations out of 1000 (max. 500000)
  35 words of extra memory for PDF output out of 10000 (max. 10000000)
 
