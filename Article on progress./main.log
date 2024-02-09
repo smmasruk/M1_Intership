@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.30)  30 JAN 2024 12:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.30)  2 FEB 2024 16:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -411,6 +411,14 @@ File: example-image-b.pdf Graphic file (type pdf)
 <use example-image-b.pdf>
 Package pdftex.def Info: example-image-b.pdf  used on input line 70.
 (pdftex.def)             Requested size: 172.07993pt x 129.06216pt.
+
+Package natbib Warning: Citation `Sasaki2003' on page 1 undefined on input line
+ 90.
+
+
+Package natbib Warning: Citation `PhysRevD.73.024027' on page 1 undefined on in
+put line 90.
+
 LaTeX Font Info:    Trying to load font information for OMS+cmtt on input line 
 93.
 (/usr/share/texmf/tex/latex/R/tex/latex/omscmtt.fd
@@ -443,10 +451,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 0A928FC121C019202926F33414EEF48E;716.
  ) 
 Here is how much of TeX's memory you used:
- 10228 strings out of 478287
- 156862 string characters out of 5849289
+ 10227 strings out of 478287
+ 156852 string characters out of 5849289
  444350 words of memory out of 5000000
- 28268 multiletter control sequences out of 15000+600000
+ 28267 multiletter control sequences out of 15000+600000
  478427 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  85i,9n,90p,443b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -460,7 +468,7 @@ onts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
 ublic/amsfonts/cm/cmtt10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb
 >
-Output written on main.pdf (3 pages, 140171 bytes).
+Output written on main.pdf (3 pages, 140190 bytes).
 PDF statistics:
  106 PDF objects out of 1000 (max. 8388607)
  79 compressed objects within 1 object stream
